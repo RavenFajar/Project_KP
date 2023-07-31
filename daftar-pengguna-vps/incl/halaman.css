@@ -1,0 +1,20 @@
+body{
+    background: url(../Gambar/BG_Halaman_2);
+}
+body.main{
+    color: #fff;
+}
+body.container{
+    max-height: 100px;
+}
+body .col-sm-10 input[type="text"]
+{
+    border: none;
+    border-bottom: 3px solid #ffffff;
+    background: transparent 60%;
+    outline: none;
+    height: 40px;
+    color: #ffffff;
+    font-size: 16px;
+    padding: 30 px;
+}
